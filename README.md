@@ -14,5 +14,4 @@ If after searching our documentation you still have an outstanding question, ple
 
 Have a great day!
 
-_Everyone on the_ [_The Signals Corps_](https://www.thesignalcorps.com/) _team._
-
+_Everyone on the_ [_The Signals Corps_](https://www.thesignalcorps.com) _team._

@@ -62,5 +62,8 @@ Two-factor authentication to all users. It is strongly recommended that all user
 A 10% discount will be applied on Group Plans where all members have two-factor authentication enabled.
 {% endhint %}
 
-Group admins can view which of their Group Members have two-factor authentication enabled on the Group Management page: [https://app.siemrules.com/group/group\_manage/](https://staging-01.siemrules.com/group/group\_manage/)​
+Group admins can view which of their Group Members have two-factor authentication enabled on the Group Management page: [https://app.siemrules.com/group/group\_manage/](https://staging-01.siemrules.com/group/group\_manage/)
 
+### User account removal
+
+​In addition to Group admins, a user can delete their own account. Deleting n account will remove a Members personal information (inc. API keys) but any content created by the Member (e.g. Rules and Themes) will remain available to the Group

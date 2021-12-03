@@ -10,7 +10,7 @@ description: Group ManagementLearn more about managing Groups and Users.
 
 Each user belongs to a Group. A user can only belong to one Group.
 
-Each Group has one Group Admin. By default this is the creator of the Group, however, ownership can be reassigned to any active Member of the Group.\\
+Each Group has one Group Admin. By default this is the creator of the Group, however, ownership can be reassigned to any active Member of the Group.
 
 | Function                               | Admin | Member |
 | -------------------------------------- | ----- | ------ |

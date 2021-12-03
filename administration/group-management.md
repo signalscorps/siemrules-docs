@@ -1,5 +1,5 @@
 ---
-description: Group ManagementLearn more about managing Groups and Users.
+description: Learn more about managing Groups and Users.
 ---
 
 # Group Management

@@ -10,17 +10,14 @@ description: Group ManagementLearn more about managing Groups and Users.
 
 Each user belongs to a Group. A user can only belong to one Group.
 
-Each Group has one Group Admin. By default this is the creator of the Group, however, ownership can be reassigned to any active Member of the Group.
+Each Group has one Group Admin. By default this is the creator of the Group, however, ownership can be reassigned to any active Member of the Group.\\
 
-A Group Admin can:
-
-* invite new Members to the Group
-  * user invited can choose to accept or reject invite
-* delete existing Members from the Group
-  * note a user can also do this for themselves on the "My Profile" page.
-  * deleting an account will delete that Members personal information (inc. API keys) but any content created by the Member (e.g. Rules and Themes) will remain available to the Group
-* edit user permissions for member of the Group
-  * see User Permissions section below
+| Function                               | Admin | Member |
+| -------------------------------------- | ----- | ------ |
+| Invite new members to Group            | TRUE  | FALSE  |
+| Delete existing Members from the Group | TRUE  | FALSE  |
+| Edit Members Permissions in the Group  | TRUE  | FALSE  |
+| View all Members in Groups             | TRUE  | TRUE   |
 
 ![SIEM Rules Group Management](../.gitbook/assets/siemrules-group-management.png)
 

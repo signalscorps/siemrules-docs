@@ -86,7 +86,6 @@ Themes can be set to be:
 * Public (default):
   * anyone can view (including unauthenticated users)
   * can contain any public Rule
-  * can contain a private rule from your Group (will not be visible to anyone outside your Group)
 * Private (if plan supported)
   * only Group members can view
   * can contain any public Rule (will not be visible to anyone outside your Group)
